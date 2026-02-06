@@ -97,6 +97,7 @@ Pump A,Pump,120,5.6,80
 Valve B,Valve,90,3.2,60
 Reactor C,Reactor,200,8.1,120
 
+
 ⚙️ Setup Instructions
 Backend Setup (Django)
 cd backend
