@@ -1,6 +1,6 @@
 ⚗️ Chemical Equipment Parameter Visualizer
 
-Hybrid Web + Desktop Application for Chemical Data Analysis
+Hybrid Web + Desktop Application for Chemical Data Analysis 
  
 The Chemical Equipment Parameter Visualizer is a hybrid application developed as part of a FOSSEE project. It combines a single Django backend API with both web and desktop interfaces to provide powerful visualization and analysis of chemical equipment data.
  
